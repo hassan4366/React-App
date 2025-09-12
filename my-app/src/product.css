@@ -1,0 +1,40 @@
+.product {
+  padding: 14px;
+  margin: 20px;
+}
+.card {
+  margin: 10px;
+  padding: 10px;
+  width: 300px;
+  height: 370px;
+  box-shadow: 5px 5px 10px #cccc;
+}
+.card img {
+  text-align: center;
+  margin: 5px;
+  width: 95%;
+  height: 57%;
+  border-radius: 7px;
+}
+
+.card h3,
+p {
+  text-align: center;
+  margin: 5px;
+  padding: 5px;
+}
+
+.card:hover {
+  box-shadow: 14px 15px 20px #ebdbdbcc;
+}
+.card button {
+  margin-left: 61px;
+    border: none;
+    padding: 10px 12px ;
+    border-radius: 20px;
+    background-color: rgb(255, 0, 242);
+}
+.card button:hover{
+    background-color: transparent;
+    border: 2px solid blue;
+}
