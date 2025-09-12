@@ -5,7 +5,7 @@ import "./products.css";
 const DUMMY_PRODUCTS = [
   {
     name: "Mobile phine",
-    image: "../public/project2.jpg",
+    image: "./project2.jpg",
     price: 378,
     description: "This is mobile phone",
     quntity: 12,
