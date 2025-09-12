@@ -10,8 +10,8 @@ const Product = ({ id, name, image, price, description }) => {
         <h3>{name}</h3>
         <h3>{description}</h3>
         <p>Price:${price}</p>
-        <button>Delete</button>
-        <button>Edite</button>
+        <button>Buy</button>
+        <button>Fav</button>
       </div>
     </div>
   );
